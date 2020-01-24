@@ -1,6 +1,6 @@
 {
   "name": "auth0-spa-js",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "Auth0 SDK for Single Page Applications using Authorization Code Grant Flow with PKCE",
   "main": "index.js",
   "author": "Auth0",
